@@ -1,0 +1,16 @@
+{
+  "name": "quantum-audit-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-scripts": "^0.0.0",
+    "recharts": "2.x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  }
+}
